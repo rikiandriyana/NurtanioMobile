@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_home"
+            android:icon="@drawable/ic_icn_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/navigation_news"
+            android:icon="@drawable/ic_icn_news"
+            android:title="@string/menu_news" />
+        <item
+            android:id="@+id/navigation_statistic"
+            android:icon="@drawable/ic_icn_statistic"
+            android:title="@string/menu_statistic"/>
+        <item
+            android:id="@+id/navigation_schedule"
+            android:icon="@drawable/ic_icn_schedule"
+            android:title="@string/menu_schedule"/>
+        <item
+            android:id="@+id/navigation_profile"
+            android:icon="@drawable/ic_icn_profile"
+            android:title="@string/menu_profile"/>
+    </group>
+</menu>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Nurtanio Mobile</string>
+    <string name="universitas_nurtanio">UNIVERSITAS NURTANIO</string>
+    <string name="title_activity_slider">Slider</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Menu Navigation Activity-->
+    <string name="menu_home">Home</string>
+    <string name="menu_news">News</string>
+    <string name="menu_statistic">Statistic</string>
+    <string name="menu_schedule">Schedule</string>
+    <string name="menu_profile">Profile</string>
+
+    <!--layout-->
+    <string name="welcome">Selamat Datang</string>
+    <string name="title_gallery">Ini Adalah Gallery</string>
+    <string name="halo">HALO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_profile">Ini Adalah Profile</string>
+    <string name="title_activity_bottom_navigation">BottomNavigation</string>
+</resources>
